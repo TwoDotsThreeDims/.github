@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.twodotsthreedims.com">
-    <img src="pic/TD2-logo-redesign-medium.png" alt="Logo" width="100" height="100">
+    <img src="../pic/TD2-logo-redesign-medium.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">IoT for Structural Health Monitoring</h3>
